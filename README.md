@@ -1,0 +1,2 @@
+# p2plending
+Lendbiz là một trong những Công ty Việt nam đi tiên phong trong việc xây dựng mô hình ứng dụng công nghệ tiên tiến giúp kết nối ngang hàng giữa các Nhà đầu tư với các Doanh nghiệp vừa và nhỏ Việt nam. Mô hình hoạt động của Lendbiz cho phép các Nhà đầu tư tham gia hỗ trợ thúc đẩy kinh tế Việt nam và làm giàu bằng cách đầu tư trực tiếp cho các Doanh nghiệp vừa và nhỏ trong quá trình hoạt động và phát triển. 
